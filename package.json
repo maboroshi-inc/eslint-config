@@ -1,0 +1,19 @@
+{
+  "name": "@maboroshi/eslint-config",
+  "version": "1.0.0",
+  "description": "Our standard lint configurations for JavaScript",
+  "main": ".eslintrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maboroshi-inc/eslint-config.git"
+  },
+  "author": "Maboroshi Co., Ltd.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maboroshi-inc/eslint-config/issues"
+  },
+  "homepage": "https://github.com/maboroshi-inc/eslint-config#readme"
+}
