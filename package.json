@@ -19,7 +19,7 @@
   "dependencies": {
     "@maboroshi/prettier-config": "^1.0.0",
     "eslint-config-prettier": "^5.0.0",
-    "eslint-config-standard": "^13.0.1",
+    "eslint-config-standard": "^14.0.1",
     "eslint-plugin-prettier": "^2.7.0"
   },
   "peerDependencies": {
