@@ -1,7 +1,5 @@
 # eslint-config
-Our standard lint configurations for JavaScript
-
-## Installation
+Our standard lint configurations for TypeScript/JavaScript.
 
 ## Installation
 ```sh
