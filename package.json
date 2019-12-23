@@ -1,6 +1,6 @@
 {
   "name": "@maboroshi/eslint-config",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Our standard lint configurations for JavaScript",
   "main": ".eslintrc.json",
   "scripts": {
@@ -29,8 +29,8 @@
     "eslint-plugin-standard": "^4.0.1"
   },
   "peerDependencies": {
-    "eslint": "^6.6.0",
-    "prettier": "^1.18.0",
+    "eslint": "^6.8.0",
+    "prettier": "^1.19.1",
     "typescript": "^3.6.0"
   }
 }
