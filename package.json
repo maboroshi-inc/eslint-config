@@ -20,7 +20,7 @@
     "@maboroshi/prettier-config": "^1.0.0",
     "@typescript-eslint/eslint-plugin": "^2.24.0",
     "@typescript-eslint/parser": "^2.24.0",
-    "eslint-config-prettier": "^7.0.0",
+    "eslint-config-prettier": "^8.8.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-node": "^11.0.0",
