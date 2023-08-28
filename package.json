@@ -19,7 +19,7 @@
   "dependencies": {
     "@maboroshi/prettier-config": "^1.0.0",
     "@typescript-eslint/eslint-plugin": "^2.24.0",
-    "@typescript-eslint/parser": "^2.24.0",
+    "@typescript-eslint/parser": "^6.4.1",
     "eslint-config-prettier": "^9.0.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.18.2",
