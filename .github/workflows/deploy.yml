@@ -32,7 +32,7 @@ jobs:
           node-version-file: '.node-version'
           registry-url: https://registry.npmjs.org/
       - name: npm install
-        run: npm ci --legacy-peer-deps
+        run: npm i --legacy-peer-deps
         env:
           CI: true
       - name: npm publish
