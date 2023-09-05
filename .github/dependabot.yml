@@ -12,8 +12,4 @@ updates:
   - oti
   allow:
   - dependency-type: production
-  ignore:
-  - dependency-name: eslint-config-prettier
-    versions:
-    - 8.0.0
-    - 8.1.0
+
