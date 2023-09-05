@@ -1,6 +1,6 @@
 {
   "name": "@maboroshi/eslint-config",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Our standard lint configurations for JavaScript",
   "main": ".eslintrc.json",
   "scripts": {
