@@ -10,7 +10,6 @@ updates:
   reviewers:
   - haribote
   - isoden
-  - NaokiMatsuda
   - oti
   allow:
   - dependency-type: production
